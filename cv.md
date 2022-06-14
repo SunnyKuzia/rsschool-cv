@@ -1,6 +1,6 @@
 # Aliaksandra Huliakevich
 
-![Alt-photo](./img/avatar.jpg)
+![Alt-photo](assets/img/avatar.jpg)
 
 ## Contacts
 
