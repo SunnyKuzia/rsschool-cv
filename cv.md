@@ -43,7 +43,9 @@ function multiply(a, b) {
 
 I worked for five years in a bank as a customer service specialist.
 
-My first programming project is this [сurriculum vitae](https://github.com/SunnyKuzia/rsschool-cv).
+I have finished «JavaScript/Front-end. Stage 0»
+
+One of my programming projects is [Momentum](https://rolling-scopes-school.github.io/sunnykuzia-JSFEPRESCHOOL2022Q2/momentum/).
 
 ## Education
 
